@@ -19,10 +19,30 @@ from openai import OpenAI
 # ---------------------------
 
 load_dotenv()
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
+# Try to get API key from multiple sources
+OPENAI_API_KEY = None
+
+# First try Streamlit secrets (for Streamlit Cloud)
+try:
+    import streamlit as st
+    OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+except:
+    # Fallback to environment variable (for local development)
+    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+# If still no key, ask user to input it
 if not OPENAI_API_KEY:
-    raise ValueError("OPENAI_API_KEY not found. Put it in a .env file.")
+    st.warning("⚠️ OpenAI API Key Required")
+    OPENAI_API_KEY = st.text_input(
+        "Please enter your OpenAI API Key:", 
+        type="password",
+        help="Get your API key from https://platform.openai.com/api-keys"
+    )
+    
+    if not OPENAI_API_KEY:
+        st.info("👆 Please enter your OpenAI API key above to use the application")
+        st.stop()
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
