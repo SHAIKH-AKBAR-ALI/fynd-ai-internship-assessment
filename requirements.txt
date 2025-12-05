@@ -1,0 +1,9 @@
+pandas
+numpy
+tqdm
+python-dotenv
+openai
+streamlit
+plotly
+google-generativeai
+requests

@@ -1,0 +1,376 @@
+true_stars,predicted_stars,json_valid,explanation,raw_output
+4,4,True,Positive with some minor drawbacks,"{""predicted_stars"": 4, ""explanation"": ""Positive with some minor drawbacks""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+3,4,True,Positive experience with good food,"{""predicted_stars"": 4, ""explanation"": ""Positive experience with good food""}"
+1,1,True,Very negative,"```json
+{""predicted_stars"": 1, ""explanation"": ""Very negative""}
+```"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Positive with minor issues,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with minor issues""}
+```"
+4,4,True,Mostly positive with some service issues,"{""predicted_stars"": 4, ""explanation"": ""Mostly positive with some service issues""}"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+1,1,True,Very negative,"{""predicted_stars"": 1, ""explanation"": ""Very negative""}"
+4,4,True,"Positive experience with good food and efficient service, but not overly enthusiastic.","{""predicted_stars"": 4, ""explanation"": ""Positive experience with good food and efficient service, but not overly enthusiastic.""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+3,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Overall positive with some minor criticisms,"```json
+{""predicted_stars"": 4, ""explanation"": ""Overall positive with some minor criticisms""}
+```"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+2,3,True,Neutral / mixed,"{""predicted_stars"": 3, ""explanation"": ""Neutral / mixed""}"
+4,2,True,Some positive aspects but overall dissatisfaction,"{""predicted_stars"": 2, ""explanation"": ""Some positive aspects but overall dissatisfaction""}"
+4,4,True,Positive with a helpful suggestion,"{""predicted_stars"": 4, ""explanation"": ""Positive with a helpful suggestion""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,4,True,"Positive experience with convenience and efficiency, but some limitations noted.","```json
+{""predicted_stars"": 4, ""explanation"": ""Positive experience with convenience and efficiency, but some limitations noted.""}
+```"
+5,4,True,Positive with minor suggestions for improvement,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with minor suggestions for improvement""}
+```"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+1,1,True,Very negative,"{""predicted_stars"": 1, ""explanation"": ""Very negative""}"
+4,4,True,Mostly positive with some minor issues,"```json
+{""predicted_stars"": 4, ""explanation"": ""Mostly positive with some minor issues""}
+```"
+4,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+4,4,True,Positive with minor reservations,"{""predicted_stars"": 4, ""explanation"": ""Positive with minor reservations""}"
+1,2,True,Negative due to high prices,"{""predicted_stars"": 2, ""explanation"": ""Negative due to high prices""}"
+4,4,True,Positive with some minor complaints,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some minor complaints""}
+```"
+2,3,True,Neutral / mixed,"{""predicted_stars"": 3, ""explanation"": ""Neutral / mixed""}"
+2,2,True,"Very negative experience with service, but some positive remarks about the food.","```json
+{""predicted_stars"": 2, ""explanation"": ""Very negative experience with service, but some positive remarks about the food.""}
+```"
+1,1,True,Very negative,"```json
+{""predicted_stars"": 1, ""explanation"": ""Very negative""}
+```"
+1,1,True,Very negative experience with frustration and dissatisfaction,"```json
+{""predicted_stars"": 1, ""explanation"": ""Very negative experience with frustration and dissatisfaction""}
+```"
+3,4,True,Positive with minor critiques,"{""predicted_stars"": 4, ""explanation"": ""Positive with minor critiques""}"
+4,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,4,True,Mostly positive with some minor complaints,"```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""Mostly positive with some minor complaints""
+}
+```"
+4,4,True,Positive with some minor criticisms,"{""predicted_stars"": 4, ""explanation"": ""Positive with some minor criticisms""}"
+2,1,True,Very negative,"{""predicted_stars"": 1, ""explanation"": ""Very negative""}"
+3,2,True,Mostly negative with some positive aspects,"```json
+{""predicted_stars"": 2, ""explanation"": ""Mostly negative with some positive aspects""}
+```"
+1,1,True,Very negative,"```json
+{""predicted_stars"": 1, ""explanation"": ""Very negative""}
+```"
+1,2,True,Mostly negative with some redeeming qualities,"```json
+{""predicted_stars"": 2, ""explanation"": ""Mostly negative with some redeeming qualities""}
+```"
+3,4,True,"Overall positive experience despite challenges, with appreciation for the view and helpfulness of others.","```json
+{""predicted_stars"": 4, ""explanation"": ""Overall positive experience despite challenges, with appreciation for the view and helpfulness of others.""}
+```"
+4,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Positive experience with minor drawbacks,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive experience with minor drawbacks""}
+```"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+1,1,True,Very negative,"```json
+{""predicted_stars"": 1, ""explanation"": ""Very negative""}
+```"
+1,1,True,Very negative,"{""predicted_stars"": 1, ""explanation"": ""Very negative""}"
+3,4,True,Positive but with some reservations,"{""predicted_stars"": 4, ""explanation"": ""Positive but with some reservations""}"
+4,4,True,Positive with some minor reservations,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some minor reservations""}
+```"
+4,4,True,Positive with minor drawbacks,"{""predicted_stars"": 4, ""explanation"": ""Positive with minor drawbacks""}"
+4,4,True,"Positive overall experience with good beer and service, but food was average.","```json
+{""predicted_stars"": 4, ""explanation"": ""Positive overall experience with good beer and service, but food was average.""}
+```"
+3,3,True,Neutral / mixed,"{""predicted_stars"": 3, ""explanation"": ""Neutral / mixed""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+1,2,True,Mostly negative with some positive past experiences,"{""predicted_stars"": 2, ""explanation"": ""Mostly negative with some positive past experiences""}"
+2,2,True,Somewhat negative due to inconvenience and poor service,"{""predicted_stars"": 2, ""explanation"": ""Somewhat negative due to inconvenience and poor service""}"
+2,2,True,Negative with some minor positives,"{""predicted_stars"": 2, ""explanation"": ""Negative with some minor positives""}"
+4,4,True,Positive with some drawbacks,"{""predicted_stars"": 4, ""explanation"": ""Positive with some drawbacks""}"
+3,3,True,Neutral / mixed,"{""predicted_stars"": 3, ""explanation"": ""Neutral / mixed""}"
+4,4,True,Positive experience but marred by cleanliness issues,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive experience but marred by cleanliness issues""}
+```"
+2,2,True,Mostly negative with some positive aspects,"```json
+{""predicted_stars"": 2, ""explanation"": ""Mostly negative with some positive aspects""}
+```"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+2,2,True,Negative feedback on food quality,"{""predicted_stars"": 2, ""explanation"": ""Negative feedback on food quality""}"
+4,4,True,Very positive with minor drawbacks,"```json
+{""predicted_stars"": 4, ""explanation"": ""Very positive with minor drawbacks""}
+```"
+3,3,True,"Neutral / mixed, with a positive note about the veggie sandwich but concerns about service speed.","{""predicted_stars"": 3, ""explanation"": ""Neutral / mixed, with a positive note about the veggie sandwich but concerns about service speed.""}"
+2,2,True,Negative sentiment with some nostalgia for past experiences,"{""predicted_stars"": 2, ""explanation"": ""Negative sentiment with some nostalgia for past experiences""}"
+5,4,True,Very positive with minor drawbacks,"```json
+{""predicted_stars"": 4, ""explanation"": ""Very positive with minor drawbacks""}
+```"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+3,3,True,Mixed feelings; positive atmosphere and service but negative experience with the food and pricing.,"{""predicted_stars"": 3, ""explanation"": ""Mixed feelings; positive atmosphere and service but negative experience with the food and pricing.""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+2,2,True,Negative experience due to billing issues,"{""predicted_stars"": 2, ""explanation"": ""Negative experience due to billing issues""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+3,4,True,Mostly positive with some mixed experiences,"```json
+{""predicted_stars"": 4, ""explanation"": ""Mostly positive with some mixed experiences""}
+```"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Positive with minor reservations,"{""predicted_stars"": 4, ""explanation"": ""Positive with minor reservations""}"
+4,4,True,"Positive with some notable highlights but also some drawbacks, particularly in service and some basic dishes.","```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some notable highlights but also some drawbacks, particularly in service and some basic dishes.""}
+```"
+4,4,True,Very positive with minor reservations,"```json
+{""predicted_stars"": 4, ""explanation"": ""Very positive with minor reservations""}
+```"
+4,4,True,Positive with some reservations about the food quality,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some reservations about the food quality""}
+```"
+5,4,True,Mostly positive with some minor complaints,"{""predicted_stars"": 4, ""explanation"": ""Mostly positive with some minor complaints""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Positive experience with good value and service,"{""predicted_stars"": 4, ""explanation"": ""Positive experience with good value and service""}"
+4,4,True,"Positive, with a nostalgic reference to quality food","{""predicted_stars"": 4, ""explanation"": ""Positive, with a nostalgic reference to quality food""}"
+3,4,True,Positive with some reservations,"{""predicted_stars"": 4, ""explanation"": ""Positive with some reservations""}"
+4,4,True,Positive experience with minor drawbacks,"{""predicted_stars"": 4, ""explanation"": ""Positive experience with minor drawbacks""}"
+3,2,True,Mostly negative with some positive aspects,"{""predicted_stars"": 2, ""explanation"": ""Mostly negative with some positive aspects""}"
+3,2,True,"Negative connotation, suggesting disappointment","{""predicted_stars"": 2, ""explanation"": ""Negative connotation, suggesting disappointment""}"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+4,4,True,Positive with minor reservations,"{""predicted_stars"": 4, ""explanation"": ""Positive with minor reservations""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Very positive with minor drawbacks,"{""predicted_stars"": 4, ""explanation"": ""Very positive with minor drawbacks""}"
+4,4,True,"Positive experience with cleanliness and stock availability, but lacks a strong emotional highlight for a 5-star rating.","{""predicted_stars"": 4, ""explanation"": ""Positive experience with cleanliness and stock availability, but lacks a strong emotional highlight for a 5-star rating.""}"
+4,4,True,Mostly positive with some negative aspects,"{""predicted_stars"": 4, ""explanation"": ""Mostly positive with some negative aspects""}"
+2,2,True,"Negative due to high price, but acknowledges the taste","{""predicted_stars"": 2, ""explanation"": ""Negative due to high price, but acknowledges the taste""}"
+4,4,True,Positive with some minor criticisms,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some minor criticisms""}
+```"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,3,True,Mixed experience with some enjoyable dishes but overall disappointment.,"```json
+{""predicted_stars"": 3, ""explanation"": ""Mixed experience with some enjoyable dishes but overall disappointment.""}
+```"
+2,2,True,Negative due to poor service despite good food,"```json
+{""predicted_stars"": 2, ""explanation"": ""Negative due to poor service despite good food""}
+```"
+3,4,True,Positive with some significant drawbacks,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some significant drawbacks""}
+```"
+1,1,True,Very negative,"```json
+{""predicted_stars"": 1, ""explanation"": ""Very negative""}
+```"
+2,2,True,Negative experience due to unexpected charges and poor communication,"{""predicted_stars"": 2, ""explanation"": ""Negative experience due to unexpected charges and poor communication""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+4,4,True,Positive with minor complaints,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with minor complaints""}
+```"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+3,4,True,Positive with some minor complaints,"{""predicted_stars"": 4, ""explanation"": ""Positive with some minor complaints""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+3,3,True,Neutral / mixed with potential for improvement,"```json
+{""predicted_stars"": 3, ""explanation"": ""Neutral / mixed with potential for improvement""}
+```"
+1,2,True,Mostly negative with some positive aspects,"```json
+{""predicted_stars"": 2, ""explanation"": ""Mostly negative with some positive aspects""}
+```"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+3,4,True,Positive with minor suggestions for improvement,"{""predicted_stars"": 4, ""explanation"": ""Positive with minor suggestions for improvement""}"
+1,1,True,Very negative,"{""predicted_stars"": 1, ""explanation"": ""Very negative""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Positive with minor disappointment,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with minor disappointment""}
+```"
+4,4,True,Positive with some reservations compared to other locations,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some reservations compared to other locations""}
+```"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Positive with some minor service issues,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some minor service issues""}
+```"
+4,4,True,Generally positive with some constructive criticism,"```json
+{""predicted_stars"": 4, ""explanation"": ""Generally positive with some constructive criticism""}
+```"
+4,4,True,Very positive with minor drawbacks,"```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""Very positive with minor drawbacks""
+}
+```"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+3,3,True,Mixed experience with both positive and negative aspects,"{""predicted_stars"": 3, ""explanation"": ""Mixed experience with both positive and negative aspects""}"
+4,4,True,Positive with some suggestions for improvement,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some suggestions for improvement""}
+```"
+3,4,True,Positive with minor complaints,"{""predicted_stars"": 4, ""explanation"": ""Positive with minor complaints""}"
+4,4,True,Positive with some reservations,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some reservations""}
+```"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+4,3,True,Mixed experience with good food but poor service,"{""predicted_stars"": 3, ""explanation"": ""Mixed experience with good food but poor service""}"
+3,4,True,Positive with some minor drawbacks,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some minor drawbacks""}
+```"
+4,4,True,Very positive with minor complaints,"```json
+{""predicted_stars"": 4, ""explanation"": ""Very positive with minor complaints""}
+```"
+4,4,True,Positive with some minor issues,"{""predicted_stars"": 4, ""explanation"": ""Positive with some minor issues""}"
+1,2,True,Mostly negative with some positive aspects for families,"{""predicted_stars"": 2, ""explanation"": ""Mostly negative with some positive aspects for families""}"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+4,4,True,Generally positive with some reservations,"```json
+{""predicted_stars"": 4, ""explanation"": ""Generally positive with some reservations""}
+```"
+4,4,True,Positive with minor reservations,"{""predicted_stars"": 4, ""explanation"": ""Positive with minor reservations""}"
+3,3,True,Neutral / mixed,"{""predicted_stars"": 3, ""explanation"": ""Neutral / mixed""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Positive with some reservations,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some reservations""}
+```"
+4,4,True,Very positive with minor drawbacks,"```json
+{""predicted_stars"": 4, ""explanation"": ""Very positive with minor drawbacks""}
+```"
+3,3,True,"Neutral / mixed, as the review mentions good food and service but ultimately rates it as average.","{""predicted_stars"": 3, ""explanation"": ""Neutral / mixed, as the review mentions good food and service but ultimately rates it as average.""}"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+4,4,True,Mostly positive with one standout dish,"{""predicted_stars"": 4, ""explanation"": ""Mostly positive with one standout dish""}"
+2,2,True,"Negative experience due to poor service, despite some positive aspects like the nachos.","```json
+{
+  ""predicted_stars"": 2,
+  ""explanation"": ""Negative experience due to poor service, despite some positive aspects like the nachos.""
+}
+```"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+4,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+1,1,True,Very negative,"{""predicted_stars"": 1, ""explanation"": ""Very negative""}"
+2,2,True,Negative with some positive aspects,"```json
+{""predicted_stars"": 2, ""explanation"": ""Negative with some positive aspects""}
+```"
+3,3,True,Neutral / mixed,"{""predicted_stars"": 3, ""explanation"": ""Neutral / mixed""}"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+2,4,True,"Overall positive experience despite initial troubles, highlighting the kindness of strangers.","```json
+{""predicted_stars"": 4, ""explanation"": ""Overall positive experience despite initial troubles, highlighting the kindness of strangers.""}
+```"
+1,2,True,"Very negative experience with service, food was mediocre","{""predicted_stars"": 2, ""explanation"": ""Very negative experience with service, food was mediocre""}"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Very positive with minor reservations,"{""predicted_stars"": 4, ""explanation"": ""Very positive with minor reservations""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Generally positive with minor reservations,"{""predicted_stars"": 4, ""explanation"": ""Generally positive with minor reservations""}"
+4,4,True,Positive with minor drawbacks,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with minor drawbacks""}
+```"
+4,3,True,Mixed experience with positive aspects but significant issues with food and service timing.,"```json
+{""predicted_stars"": 3, ""explanation"": ""Mixed experience with positive aspects but significant issues with food and service timing.""}
+```"
+3,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+3,4,True,Positive with some minor drawbacks,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some minor drawbacks""}
+```"
+4,4,True,"Overall positive experience with great food, but some negative aspects regarding decor and behavior of patrons.","```json
+{""predicted_stars"": 4, ""explanation"": ""Overall positive experience with great food, but some negative aspects regarding decor and behavior of patrons.""}
+```"
+5,4,True,Very positive with minor concerns,"```json
+{""predicted_stars"": 4, ""explanation"": ""Very positive with minor concerns""}
+```"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Positive with some service issues,"```json
+{""predicted_stars"": 4, ""explanation"": ""Positive with some service issues""}
+```"
+3,2,True,Negative due to high prices and mediocre food,"{""predicted_stars"": 2, ""explanation"": ""Negative due to high prices and mediocre food""}"
+1,1,True,Very negative,"```json
+{""predicted_stars"": 1, ""explanation"": ""Very negative""}
+```"
+3,4,True,Very positive with some minor reservations,"```json
+{""predicted_stars"": 4, ""explanation"": ""Very positive with some minor reservations""}
+```"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+3,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+5,4,True,"Positive review focused on the happy hour, but mentions issues with the regular menu.","```json
+{""predicted_stars"": 4, ""explanation"": ""Positive review focused on the happy hour, but mentions issues with the regular menu.""}
+```"
+5,5,True,Extremely positive with strong cravings and recommendations,"```json
+{""predicted_stars"": 5, ""explanation"": ""Extremely positive with strong cravings and recommendations""}
+```"
+4,4,True,Positive with minor drawbacks,"{""predicted_stars"": 4, ""explanation"": ""Positive with minor drawbacks""}"
+2,3,True,Neutral / mixed,"{""predicted_stars"": 3, ""explanation"": ""Neutral / mixed""}"
+4,4,True,Overall positive experience with minor negative aspect,"{""predicted_stars"": 4, ""explanation"": ""Overall positive experience with minor negative aspect""}"
+3,4,True,Generally positive with some minor criticisms,"{""predicted_stars"": 4, ""explanation"": ""Generally positive with some minor criticisms""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+3,3,True,Mixed experience with great service but disappointing food,"```json
+{""predicted_stars"": 3, ""explanation"": ""Mixed experience with great service but disappointing food""}
+```"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+3,4,True,Positive with some reservations,"{""predicted_stars"": 4, ""explanation"": ""Positive with some reservations""}"
+5,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+4,4,True,Positive but acknowledges high prices,"{""predicted_stars"": 4, ""explanation"": ""Positive but acknowledges high prices""}"
+4,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"
+3,4,True,Very positive with minor drawbacks,"```json
+{""predicted_stars"": 4, ""explanation"": ""Very positive with minor drawbacks""}
+```"
+4,5,True,Very positive,"{""predicted_stars"": 5, ""explanation"": ""Very positive""}"
+5,5,True,Very positive,"```json
+{""predicted_stars"": 5, ""explanation"": ""Very positive""}
+```"

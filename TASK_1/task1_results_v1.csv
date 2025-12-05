@@ -1,0 +1,805 @@
+true_stars,predicted_stars,json_valid,explanation,raw_output
+4,4,True,"The review highlights good food, friendly service, and a pleasant atmosphere, but notes the place was empty late at night.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights good food, friendly service, and a pleasant atmosphere, but notes the place was empty late at night.""
+}"
+5,5,True,"The review highlights a positive experience with a specific dish that exceeds expectations, indicating high satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights a positive experience with a specific dish that exceeds expectations, indicating high satisfaction.""
+}"
+3,4,True,"The reviewer enjoys the food and has a consistent positive experience, but the description suggests it's a typical place without standout features.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer enjoys the food and has a consistent positive experience, but the description suggests it's a typical place without standout features.""
+}"
+1,1,True,"The reviewer had a very negative experience, feeling misled and overcharged for unnecessary repairs.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The reviewer had a very negative experience, feeling misled and overcharged for unnecessary repairs.""
+}"
+5,5,True,"The reviewer expresses strong enthusiasm and satisfaction, mentioning they visited multiple times and enjoyed the food.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer expresses strong enthusiasm and satisfaction, mentioning they visited multiple times and enjoyed the food.""
+}"
+4,4,True,"The review highlights positive aspects such as location, cleanliness, and value, but mentions minor annoyances like noise from neighbors.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects such as location, cleanliness, and value, but mentions minor annoyances like noise from neighbors.""
+}"
+4,4,True,"The review highlights great food quality and a positive experience at the sushi bar, but notes inconsistent service.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights great food quality and a positive experience at the sushi bar, but notes inconsistent service.""
+}"
+4,5,True,"The review expresses strong enthusiasm for both ramen and boba tea, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong enthusiasm for both ramen and boba tea, indicating a very positive experience.""
+}"
+5,5,True,"The review highlights a positive experience with great food, generous portions, and a pleasant atmosphere, indicating high satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights a positive experience with great food, generous portions, and a pleasant atmosphere, indicating high satisfaction.""
+}"
+1,1,True,"The reviewer had a negative experience with both service and food quality, specifically mentioning insufficient meat in their orders.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The reviewer had a negative experience with both service and food quality, specifically mentioning insufficient meat in their orders.""
+}"
+4,5,True,"The review highlights good food, efficient service for a large group, and reasonable pricing, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights good food, efficient service for a large group, and reasonable pricing, indicating a very positive experience.""
+}"
+5,5,True,"The review highlights a great atmosphere, accommodating staff, and good prices, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights a great atmosphere, accommodating staff, and good prices, indicating a very positive experience.""
+}"
+3,5,True,The review expresses strong enthusiasm and satisfaction with a simple exclamation.,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong enthusiasm and satisfaction with a simple exclamation.""
+}"
+4,4,True,"The review highlights positive aspects of the location, such as good hours, competitive prices, and a well-stocked selection, but also mentions some issues with deli staff, which prevents a perfect score.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects of the location, such as good hours, competitive prices, and a well-stocked selection, but also mentions some issues with deli staff, which prevents a perfect score.""
+}"
+5,5,True,"The reviewer expresses high satisfaction with the service provided, highlighting prompt assistance and effective communication.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer expresses high satisfaction with the service provided, highlighting prompt assistance and effective communication.""
+}"
+2,3,True,The burger was decent but overall experience was average due to high prices and unimpressive sides.,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The burger was decent but overall experience was average due to high prices and unimpressive sides.""
+}"
+4,2,True,"The reviewer felt uncomfortable and pressured at the store, and had a negative experience with the registry department, indicating dissatisfaction.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The reviewer felt uncomfortable and pressured at the store, and had a negative experience with the registry department, indicating dissatisfaction.""
+}"
+4,4,True,"The review highlights a positive aspect of the restaurant's menu, specifically a healthier option, which suggests a good experience overall.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights a positive aspect of the restaurant's menu, specifically a healthier option, which suggests a good experience overall.""
+}"
+5,5,True,"The review expresses strong enthusiasm for the pizza and a specific appetizer, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong enthusiasm for the pizza and a specific appetizer, indicating a very positive experience.""
+}"
+5,3,True,The review highlights convenience but lacks enthusiasm and specific praise for the airport experience.,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review highlights convenience but lacks enthusiasm and specific praise for the airport experience.""
+}"
+5,4,True,"The review is very positive about the burger and fries, but mentions minor issues with drink sizes and cup materials.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is very positive about the burger and fries, but mentions minor issues with drink sizes and cup materials.""
+}"
+5,5,True,"The review highlights excellent food quality, friendly service, and great value, despite the casual atmosphere.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights excellent food quality, friendly service, and great value, despite the casual atmosphere.""
+}"
+1,1,True,"The review highlights multiple negative aspects, including rude staff, high prices, uncomfortable temperature, and equipment malfunctions, leading to a very poor experience.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review highlights multiple negative aspects, including rude staff, high prices, uncomfortable temperature, and equipment malfunctions, leading to a very poor experience.""
+}"
+4,4,True,"The review highlights helpful staff, good food variety, and a fantastic pool area, but mentions some noise issues and that the room was just okay.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights helpful staff, good food variety, and a fantastic pool area, but mentions some noise issues and that the room was just okay.""
+}"
+4,5,True,"The reviewer had a positive experience with great food, friendly service, and a clean environment, indicating high satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer had a positive experience with great food, friendly service, and a clean environment, indicating high satisfaction.""
+}"
+4,4,True,"The review highlights satisfaction with the food quality and value, indicating a positive experience overall.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights satisfaction with the food quality and value, indicating a positive experience overall.""
+}"
+1,2,True,"The review indicates dissatisfaction with high prices, suggesting a negative experience.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review indicates dissatisfaction with high prices, suggesting a negative experience.""
+}"
+4,4,True,"The reviewer had a positive experience with good food, fast service, and reasonable prices, though they noted it isn't the classiest place.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer had a positive experience with good food, fast service, and reasonable prices, though they noted it isn't the classiest place.""
+}"
+2,2,True,"The review expresses dissatisfaction with service and pricing, indicating a negative experience.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses dissatisfaction with service and pricing, indicating a negative experience.""
+}"
+2,2,True,"The service was extremely poor, with long waits and lack of attention, despite the food being decent.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The service was extremely poor, with long waits and lack of attention, despite the food being decent.""
+}"
+1,1,True,"The reviewer expressed significant disappointment with the food quality and taste, indicating they will not return.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The reviewer expressed significant disappointment with the food quality and taste, indicating they will not return.""
+}"
+1,1,True,"The reviewer had a frustrating experience with the gas station's unusual payment system and equipment, leading to a strong negative sentiment.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The reviewer had a frustrating experience with the gas station's unusual payment system and equipment, leading to a strong negative sentiment.""
+}"
+3,4,True,"The food was mostly good with standout pulled pork, but some items needed improvement.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The food was mostly good with standout pulled pork, but some items needed improvement.""
+}"
+4,5,True,"The review is overwhelmingly positive, highlighting the quality of food, unique atmosphere, and personal anecdotes that create a strong connection to the place.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is overwhelmingly positive, highlighting the quality of food, unique atmosphere, and personal anecdotes that create a strong connection to the place.""
+}"
+5,5,True,"The review highlights cleanliness, efficiency, friendly employees, and fresh food, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights cleanliness, efficiency, friendly employees, and fresh food, indicating a very positive experience.""
+}"
+5,5,True,"The review highlights a positive experience with a friendly atmosphere, skilled tattoo artists, and a welcoming environment, indicating high satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights a positive experience with a friendly atmosphere, skilled tattoo artists, and a welcoming environment, indicating high satisfaction.""
+}"
+5,5,True,"The review expresses high satisfaction with the sandwiches, highlighting their quality and taste.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses high satisfaction with the sandwiches, highlighting their quality and taste.""
+}"
+5,4,True,"The reviewer enjoyed their meal and expressed a desire to return, but noted some issues with portion sizes and a crowded atmosphere.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer enjoyed their meal and expressed a desire to return, but noted some issues with portion sizes and a crowded atmosphere.""
+}"
+4,4,True,"The reviewer enjoyed the food and had a positive experience overall, but mentioned a dislike for the cafeteria style ordering.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer enjoyed the food and had a positive experience overall, but mentioned a dislike for the cafeteria style ordering.""
+}"
+2,1,True,The review expresses strong dissatisfaction and indicates a negative experience.,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong dissatisfaction and indicates a negative experience.""
+}"
+3,2,True,"The review highlights several disappointments with the food quality and value, despite mentioning good service.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review highlights several disappointments with the food quality and value, despite mentioning good service.""
+}"
+1,1,True,"The reviewer had a very negative experience with the food quality and overall dining atmosphere, despite good service.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The reviewer had a very negative experience with the food quality and overall dining atmosphere, despite good service.""
+}"
+1,2,True,"The review expresses strong negative feelings about the atmosphere and drink quality, while only mentioning a few positives for a specific demographic.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses strong negative feelings about the atmosphere and drink quality, while only mentioning a few positives for a specific demographic.""
+}"
+3,3,True,"The review describes a challenging and somewhat frustrating hiking experience, but it also highlights the beauty of the view and the kindness of a fellow hiker, leading to a mixed overall impression.","```json
+{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review describes a challenging and somewhat frustrating hiking experience, but it also highlights the beauty of the view and the kindness of a fellow hiker, leading to a mixed overall impression.""
+}
+```"
+4,5,True,"The review highlights great food, excellent service, and a welcoming atmosphere, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights great food, excellent service, and a welcoming atmosphere, indicating a very positive experience.""
+}"
+4,5,True,"The review highlights friendly staff, great food, and excellent value, indicating a highly positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights friendly staff, great food, and excellent value, indicating a highly positive experience.""
+}"
+4,4,True,"The review is positive, highlighting the store's organization, helpful staff, and good selection, despite some high prices.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is positive, highlighting the store's organization, helpful staff, and good selection, despite some high prices.""
+}"
+5,5,True,"The review expresses high satisfaction with the food and overall experience, highlighting the quality of the crab salad and the pleasant setting.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses high satisfaction with the food and overall experience, highlighting the quality of the crab salad and the pleasant setting.""
+}"
+4,5,True,"The review highlights excellent food quality, fair pricing, and a positive overall experience, indicating a strong satisfaction with the restaurant.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights excellent food quality, fair pricing, and a positive overall experience, indicating a strong satisfaction with the restaurant.""
+}"
+1,1,True,"The review expresses extreme dissatisfaction with the taxi service, highlighting issues with timeliness and navigation, leading to a significant negative impact on the reviewer's plans.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses extreme dissatisfaction with the taxi service, highlighting issues with timeliness and navigation, leading to a significant negative impact on the reviewer's plans.""
+}"
+1,1,True,"The review expresses significant disappointment with the food quality and consistency, indicating a negative experience.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses significant disappointment with the food quality and consistency, indicating a negative experience.""
+}"
+3,3,True,"The review indicates that the experience is average, with a preference for Waffle House over Denny's but not highly enthusiastic.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates that the experience is average, with a preference for Waffle House over Denny's but not highly enthusiastic.""
+}"
+4,4,True,"The review highlights a unique and enjoyable atmosphere, decent food, and a positive experience overall, suggesting a strong rating.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights a unique and enjoyable atmosphere, decent food, and a positive experience overall, suggesting a strong rating.""
+}"
+4,4,True,"The reviewer appreciates the food and service, despite the shabby environment, indicating a positive overall experience.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer appreciates the food and service, despite the shabby environment, indicating a positive overall experience.""
+}"
+4,4,True,"The review highlights good beer and service, with decent food, leading to an overall positive experience.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights good beer and service, with decent food, leading to an overall positive experience.""
+}"
+3,3,True,"The review expresses mixed feelings, highlighting a great layout and view but also significant drawbacks like high prices and limited drink options.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses mixed feelings, highlighting a great layout and view but also significant drawbacks like high prices and limited drink options.""
+}"
+5,5,True,"The review highlights excellent food, good service, and a positive atmosphere, indicating a very satisfying experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights excellent food, good service, and a positive atmosphere, indicating a very satisfying experience.""
+}"
+5,5,True,"The reviewer expresses strong positive feelings about the food and value, indicating a high level of satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer expresses strong positive feelings about the food and value, indicating a high level of satisfaction.""
+}"
+5,5,True,"The reviewer expresses consistent satisfaction with the food and excellent service, indicating a highly positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer expresses consistent satisfaction with the food and excellent service, indicating a highly positive experience.""
+}"
+1,2,True,"The review expresses disappointment with the food quality, service, and overall experience compared to past visits.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses disappointment with the food quality, service, and overall experience compared to past visits.""
+}"
+2,1,True,"The reviewer had a negative experience due to the business not being open as advertised and the uncomfortable heat, leading to dissatisfaction.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The reviewer had a negative experience due to the business not being open as advertised and the uncomfortable heat, leading to dissatisfaction.""
+}"
+2,2,True,"The review expresses dissatisfaction with the food quality and mentions not planning to return, indicating a low rating.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses dissatisfaction with the food quality and mentions not planning to return, indicating a low rating.""
+}"
+4,4,True,"The review highlights a fun atmosphere and good service, but notes some cleanliness issues and that the food is not a main draw, which suggests a solid but not exceptional experience.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights a fun atmosphere and good service, but notes some cleanliness issues and that the food is not a main draw, which suggests a solid but not exceptional experience.""
+}"
+3,3,True,"The review expresses moderate dissatisfaction with the location and experience, indicating it meets basic expectations but lacks standout features.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses moderate dissatisfaction with the location and experience, indicating it meets basic expectations but lacks standout features.""
+}"
+4,4,True,"The food was delicious and affordable, but the cleanliness of the dining area detracted from the overall experience.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The food was delicious and affordable, but the cleanliness of the dining area detracted from the overall experience.""
+}"
+2,2,True,"The review expresses disappointment with the food quality and flavors, despite acknowledging some positive aspects.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses disappointment with the food quality and flavors, despite acknowledging some positive aspects.""
+}"
+5,5,True,"The review expresses high satisfaction with the food and overall experience, indicating a strong likelihood of returning.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses high satisfaction with the food and overall experience, indicating a strong likelihood of returning.""
+}"
+5,5,True,"The reviewer expresses strong satisfaction with the food and service, indicating a positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer expresses strong satisfaction with the food and service, indicating a positive experience.""
+}"
+2,2,True,The reviewer expresses disappointment with the quality of the dressing and the texture of the tomatoes.,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The reviewer expresses disappointment with the quality of the dressing and the texture of the tomatoes.""
+}"
+4,5,True,"The review highlights a great experience with tasty food, excellent service, and a pleasant atmosphere, indicating a very positive overall impression.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights a great experience with tasty food, excellent service, and a pleasant atmosphere, indicating a very positive overall impression.""
+}"
+3,3,True,"The review highlights a positive aspect (the veggie sandwich) but also mentions slow service, leading to a neutral rating.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review highlights a positive aspect (the veggie sandwich) but also mentions slow service, leading to a neutral rating.""
+}"
+2,1,True,The reviewer expresses strong disappointment with the decline in food quality and overall experience.,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The reviewer expresses strong disappointment with the decline in food quality and overall experience.""
+}"
+5,5,True,"The review highlights excellent food, originality, good portions, and customer service, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights excellent food, originality, good portions, and customer service, indicating a very positive experience.""
+}"
+4,5,True,"The review highlights positive aspects such as the friendly bartender, affordable prices, and enjoyable atmosphere, indicating a highly satisfying experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights positive aspects such as the friendly bartender, affordable prices, and enjoyable atmosphere, indicating a highly satisfying experience.""
+}"
+3,3,True,"The review highlights a great atmosphere and customer service but criticizes the value of the food and the pricing structure, leading to a neutral rating.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review highlights a great atmosphere and customer service but criticizes the value of the food and the pricing structure, leading to a neutral rating.""
+}"
+5,5,True,"The review highlights a positive experience with a quick and easy donation process, supportive community impact, and great staff, indicating high satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights a positive experience with a quick and easy donation process, supportive community impact, and great staff, indicating high satisfaction.""
+}"
+2,2,True,"The reviewer has had negative experiences with billing issues, which significantly impacts their overall satisfaction.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The reviewer has had negative experiences with billing issues, which significantly impacts their overall satisfaction.""
+}"
+5,5,True,The reviewer expresses strong positive feelings about the food and ambiance.,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer expresses strong positive feelings about the food and ambiance.""
+}"
+3,4,True,"The review highlights both excellent and disappointing dishes, but overall expresses satisfaction and a desire to return.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights both excellent and disappointing dishes, but overall expresses satisfaction and a desire to return.""
+}"
+5,5,True,"The review highlights excellent food quality, beautiful presentation, and outstanding service, indicating a highly positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights excellent food quality, beautiful presentation, and outstanding service, indicating a highly positive experience.""
+}"
+4,5,True,"The review expresses high satisfaction with the food and atmosphere, indicating an excellent experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses high satisfaction with the food and atmosphere, indicating an excellent experience.""
+}"
+4,4,True,"The review highlights good food, friendly service, and a nice atmosphere, indicating a positive experience overall.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights good food, friendly service, and a nice atmosphere, indicating a positive experience overall.""
+}"
+4,4,True,"The review highlights some standout dishes and a generally positive experience, but notes issues with service speed and some basic menu items, justifying a 4-star rating.","```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights some standout dishes and a generally positive experience, but notes issues with service speed and some basic menu items, justifying a 4-star rating.""
+}
+```"
+4,4,True,"The reviewer expresses a strong positive sentiment about the coffee shop, highlighting its conducive atmosphere, friendly staff, and good coffee, but does not give a perfect score, indicating room for improvement.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer expresses a strong positive sentiment about the coffee shop, highlighting its conducive atmosphere, friendly staff, and good coffee, but does not give a perfect score, indicating room for improvement.""
+}"
+4,4,True,"The review highlights the ambiance and classic vibe of Durant's, despite the steak not being the best in the area, indicating a strong overall experience.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights the ambiance and classic vibe of Durant's, despite the steak not being the best in the area, indicating a strong overall experience.""
+}"
+5,4,True,"The review highlights positive aspects of the dog park, such as ample space and a good crowd, but mentions some negative behavior from certain dogs, leading to a slightly lower rating.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects of the dog park, such as ample space and a good crowd, but mentions some negative behavior from certain dogs, leading to a slightly lower rating.""
+}"
+5,5,True,"The reviewer expresses extreme satisfaction with the service and quality of haircuts, indicating a strong positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer expresses extreme satisfaction with the service and quality of haircuts, indicating a strong positive experience.""
+}"
+4,4,True,"The review highlights a positive experience with good service and value, but lacks strong emotional engagement or standout features that would warrant a higher rating.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights a positive experience with good service and value, but lacks strong emotional engagement or standout features that would warrant a higher rating.""
+}"
+4,4,True,"The review highlights the quality of the food, specifically the homemade fresh noodles, which suggests a positive experience, but lacks detailed criticism or praise that would indicate a perfect score.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights the quality of the food, specifically the homemade fresh noodles, which suggests a positive experience, but lacks detailed criticism or praise that would indicate a perfect score.""
+}"
+3,4,True,"The review is positive, highlighting good prices and a helpful selection, but it lacks strong enthusiasm or a personal experience.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is positive, highlighting good prices and a helpful selection, but it lacks strong enthusiasm or a personal experience.""
+}"
+4,4,True,"The review is positive, highlighting the quality of the wine and food, as well as the cozy atmosphere, but lacks specific details about the items ordered.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is positive, highlighting the quality of the wine and food, as well as the cozy atmosphere, but lacks specific details about the items ordered.""
+}"
+3,2,True,"The review highlights average food quality, slow service, and a lack of enthusiasm, indicating a below-average experience.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review highlights average food quality, slow service, and a lack of enthusiasm, indicating a below-average experience.""
+}"
+3,2,True,"The review suggests a negative comparison, indicating disappointment with the restaurant's quality.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review suggests a negative comparison, indicating disappointment with the restaurant's quality.""
+}"
+5,5,True,"The review highlights excellent food, attentive service, a pleasant atmosphere, and cleanliness, indicating a highly positive dining experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights excellent food, attentive service, a pleasant atmosphere, and cleanliness, indicating a highly positive dining experience.""
+}"
+4,4,True,"The review highlights good coffee, a charming atmosphere, and very nice staff, indicating a positive experience overall.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights good coffee, a charming atmosphere, and very nice staff, indicating a positive experience overall.""
+}"
+5,5,True,"The reviewer had an excellent experience, praising the food and recommending the restaurant highly.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer had an excellent experience, praising the food and recommending the restaurant highly.""
+}"
+4,4,True,"The review highlights many positive aspects of the hotel, but the small pool prevents it from receiving a perfect score.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights many positive aspects of the hotel, but the small pool prevents it from receiving a perfect score.""
+}"
+4,5,True,"The review highlights cleanliness, good stock, and short wait times, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights cleanliness, good stock, and short wait times, indicating a very positive experience.""
+}"
+4,4,True,"The review highlights both fantastic dishes and a disappointing one, but overall positive experience with good service and a pleasant atmosphere.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights both fantastic dishes and a disappointing one, but overall positive experience with good service and a pleasant atmosphere.""
+}"
+2,2,True,"The reviewer found the ice cream tasty but criticized the high price, leading to a low rating.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The reviewer found the ice cream tasty but criticized the high price, leading to a low rating.""
+}"
+4,4,True,"The review highlights a great atmosphere, good food, and acceptable service, but notes some minor issues with the cheese selection and loud music.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights a great atmosphere, good food, and acceptable service, but notes some minor issues with the cheese selection and loud music.""
+}"
+5,5,True,"The review expresses strong enthusiasm for the venue, highlighting its beauty, the quality of live music, and the passion of the owner, indicating a highly positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong enthusiasm for the venue, highlighting its beauty, the quality of live music, and the passion of the owner, indicating a highly positive experience.""
+}"
+4,5,True,"The review highlights great food, coffee, live music, and a positive overall experience, indicating high satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights great food, coffee, live music, and a positive overall experience, indicating high satisfaction.""
+}"
+4,3,True,"The review indicates mixed feelings, with only one dish being enjoyed and some disappointment in others, suggesting an average experience.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates mixed feelings, with only one dish being enjoyed and some disappointment in others, suggesting an average experience.""
+}"
+2,2,True,"The reviewer expresses disappointment with the service, which has deteriorated over the last six months, despite previously being a loyal customer.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The reviewer expresses disappointment with the service, which has deteriorated over the last six months, despite previously being a loyal customer.""
+}"
+3,3,True,"The review highlights knowledgeable staff and good prices but expresses disappointment over the lack of DnD books and dice, which significantly affects the overall experience.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review highlights knowledgeable staff and good prices but expresses disappointment over the lack of DnD books and dice, which significantly affects the overall experience.""
+}"
+1,1,True,"The review expresses strong dissatisfaction with the service, food quality, and overall experience, indicating a very low rating.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong dissatisfaction with the service, food quality, and overall experience, indicating a very low rating.""
+}"
+2,2,True,"The reviewer had a negative experience due to unexpected charges and poor communication, leading to dissatisfaction.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The reviewer had a negative experience due to unexpected charges and poor communication, leading to dissatisfaction.""
+}"
+5,5,True,"The review expresses strong positive sentiments about the food, service, and overall experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiments about the food, service, and overall experience.""
+}"
+5,5,True,"The reviewer had a positive experience with great food, good service, and enjoyable company.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer had a positive experience with great food, good service, and enjoyable company.""
+}"
+4,4,True,"The review is positive overall, highlighting great food and specific dishes, but mentions a minor issue with the butter and a lack of ranch dressing.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is positive overall, highlighting great food and specific dishes, but mentions a minor issue with the butter and a lack of ranch dressing.""
+}"
+4,5,True,"The review highlights multiple positive aspects of the food, coffee, and decor, indicating a very satisfying experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights multiple positive aspects of the food, coffee, and decor, indicating a very satisfying experience.""
+}"
+4,5,True,"The review highlights a unique selection of supplies, positive online ordering experience, and enthusiasm for classes, indicating high satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights a unique selection of supplies, positive online ordering experience, and enthusiasm for classes, indicating high satisfaction.""
+}"
+3,4,True,"The review highlights delicious food and good portions, but mentions a small portion of hummus and inconsistent service.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights delicious food and good portions, but mentions a small portion of hummus and inconsistent service.""
+}"
+5,5,True,"The review expresses strong enthusiasm and satisfaction with the food and overall experience, highlighting specific favorites and great value.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong enthusiasm and satisfaction with the food and overall experience, highlighting specific favorites and great value.""
+}"
+4,5,True,"The review expresses strong positive sentiments about the pizza quality, staff friendliness, and convenience, indicating a highly satisfying experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiments about the pizza quality, staff friendliness, and convenience, indicating a highly satisfying experience.""
+}"
+3,3,True,"The review expresses mixed feelings, highlighting some positives but overall feeling underwhelmed, leading to a neutral rating.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses mixed feelings, highlighting some positives but overall feeling underwhelmed, leading to a neutral rating.""
+}"
+1,2,True,"The review expresses significant dissatisfaction with the food and service, despite a few positive comments about the location and owner.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses significant dissatisfaction with the food and service, despite a few positive comments about the location and owner.""
+}"
+5,5,True,"The review expresses strong affection for the coffee shop, highlights favorite drinks, and praises the friendly service.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong affection for the coffee shop, highlights favorite drinks, and praises the friendly service.""
+}"
+3,4,True,"The review highlights delicious food, fast service, and large portions, but suggests a lack of variety in the dish.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights delicious food, fast service, and large portions, but suggests a lack of variety in the dish.""
+}"
+1,1,True,"The review highlights multiple negative experiences, including long wait times, unhelpful staff, and poor food quality.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review highlights multiple negative experiences, including long wait times, unhelpful staff, and poor food quality.""
+}"
+5,5,True,"The review highlights amazing food quality, cleanliness, fast service, and friendly staff, indicating a top-notch experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights amazing food quality, cleanliness, fast service, and friendly staff, indicating a top-notch experience.""
+}"
+4,4,True,"The review highlights a fun atmosphere, excellent staff, and good food, but notes a disappointment with the lack of spice in the sushi.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights a fun atmosphere, excellent staff, and good food, but notes a disappointment with the lack of spice in the sushi.""
+}"
+4,4,True,"The reviewer expresses satisfaction with the cleanliness, service speed, and overall experience, rating it positively compared to other locations.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer expresses satisfaction with the cleanliness, service speed, and overall experience, rating it positively compared to other locations.""
+}"
+4,5,True,"The review highlights a great experience with excellent prices and a pleasant atmosphere, indicating high satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights a great experience with excellent prices and a pleasant atmosphere, indicating high satisfaction.""
+}"
+4,4,True,"The review highlights good food quality and enjoyable drinks, despite some service issues, indicating a positive overall experience.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights good food quality and enjoyable drinks, despite some service issues, indicating a positive overall experience.""
+}"
+4,3,True,"The review highlights both positive aspects of the airport, such as cleanliness and food options, but also points out significant inconveniences like long walking distances and outdated security machines.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review highlights both positive aspects of the airport, such as cleanliness and food options, but also points out significant inconveniences like long walking distances and outdated security machines.""
+}"
+4,5,True,"The review is overwhelmingly positive, highlighting the quality of the cupcakes, the helpful staff, and the enjoyable experience, with only minor criticisms about drink options.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is overwhelmingly positive, highlighting the quality of the cupcakes, the helpful staff, and the enjoyable experience, with only minor criticisms about drink options.""
+}"
+5,5,True,"The review expresses strong appreciation for the theater's unique offerings and the owner's commitment, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong appreciation for the theater's unique offerings and the owner's commitment, indicating a very positive experience.""
+}"
+4,5,True,"The review highlights excellent food quality, a fun atmosphere, and good value, indicating a highly positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights excellent food quality, a fun atmosphere, and good value, indicating a highly positive experience.""
+}"
+3,3,True,"The review mentions good service and a fun atmosphere, but also highlights poor food quality, leading to an average rating.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review mentions good service and a fun atmosphere, but also highlights poor food quality, leading to an average rating.""
+}"
+4,4,True,"The reviewer had a positive experience with the food and atmosphere but suggested improvements for the music, indicating a strong but not perfect experience.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer had a positive experience with the food and atmosphere but suggested improvements for the music, indicating a strong but not perfect experience.""
+}"
+3,4,True,"The review highlights positive aspects like friendly staff and no wait times, but mentions some areas for improvement, leading to a solid rating.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like friendly staff and no wait times, but mentions some areas for improvement, leading to a solid rating.""
+}"
+4,4,True,"The reviewer had a positive experience with great food, good value, and a pleasant atmosphere, but suggests they need to try more dishes before giving a higher rating.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer had a positive experience with great food, good value, and a pleasant atmosphere, but suggests they need to try more dishes before giving a higher rating.""
+}"
+5,5,True,"The review expresses high satisfaction with the service and the positive experience of the pet, indicating a strong likelihood of returning.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses high satisfaction with the service and the positive experience of the pet, indicating a strong likelihood of returning.""
+}"
+5,5,True,"The review highlights fantastic food, superior service, and a positive overall experience, indicating a strong likelihood of a 5-star rating.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights fantastic food, superior service, and a positive overall experience, indicating a strong likelihood of a 5-star rating.""
+}"
+4,3,True,"The review mentions good experiences with brunch and dinner but notes a lack of flavor in one dish and uninterested service, leading to a neutral overall impression.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review mentions good experiences with brunch and dinner but notes a lack of flavor in one dish and uninterested service, leading to a neutral overall impression.""
+}"
+3,4,True,"The review highlights a positive experience with both the golf course and the clubhouse food, indicating satisfaction but not exceptional quality.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights a positive experience with both the golf course and the clubhouse food, indicating satisfaction but not exceptional quality.""
+}"
+4,4,True,"The food was delicious and authentic, but the bright lights and prepackaged butter detracted from the overall experience.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The food was delicious and authentic, but the bright lights and prepackaged butter detracted from the overall experience.""
+}"
+4,4,True,"The review is positive, highlighting great service and a pleasant atmosphere, but notes that the restaurant is still working out some kinks.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is positive, highlighting great service and a pleasant atmosphere, but notes that the restaurant is still working out some kinks.""
+}"
+1,2,True,"The reviewer finds the food and prices unsatisfactory, indicating a generally negative experience, but acknowledges that families with children might enjoy it more.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The reviewer finds the food and prices unsatisfactory, indicating a generally negative experience, but acknowledges that families with children might enjoy it more.""
+}"
+5,5,True,"The review is overwhelmingly positive, highlighting consistent quality, great food, and excellent deals, indicating a top-notch experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is overwhelmingly positive, highlighting consistent quality, great food, and excellent deals, indicating a top-notch experience.""
+}"
+4,4,True,"The review indicates a generally positive experience with good service and atmosphere, but the food did not meet expectations, leading to a solid but not exceptional rating.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates a generally positive experience with good service and atmosphere, but the food did not meet expectations, leading to a solid but not exceptional rating.""
+}"
+4,4,True,"The reviewer enjoyed the food and had a positive experience, but mentioned the wine was only okay, indicating room for improvement.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer enjoyed the food and had a positive experience, but mentioned the wine was only okay, indicating room for improvement.""
+}"
+3,3,True,"The review indicates that the food is just okay and suggests better options, but acknowledges the cleanliness and furnishings of the restaurant.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates that the food is just okay and suggests better options, but acknowledges the cleanliness and furnishings of the restaurant.""
+}"
+5,5,True,"The reviewer expresses high satisfaction with the food, drinks, and service, indicating an excellent overall experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer expresses high satisfaction with the food, drinks, and service, indicating an excellent overall experience.""
+}"
+5,5,True,"The review highlights excellent service, flavorful food, and recommends specific dishes, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights excellent service, flavorful food, and recommends specific dishes, indicating a very positive experience.""
+}"
+4,4,True,"The review expresses enjoyment of the coffee shop and its atmosphere, despite some changes, indicating a positive experience overall.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses enjoyment of the coffee shop and its atmosphere, despite some changes, indicating a positive experience overall.""
+}"
+4,4,True,"The review is very positive, highlighting delicious food and quick service, but mentions a disappointment with the sweet and sour pork.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is very positive, highlighting delicious food and quick service, but mentions a disappointment with the sweet and sour pork.""
+}"
+3,3,True,"The reviewer enjoyed the food and service but ultimately rated the restaurant 3 stars, indicating a neutral experience.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The reviewer enjoyed the food and service but ultimately rated the restaurant 3 stars, indicating a neutral experience.""
+}"
+4,5,True,"The reviewer praises the pizza highly, comparing it favorably to New York pizza and expressing consistent satisfaction with the quality.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer praises the pizza highly, comparing it favorably to New York pizza and expressing consistent satisfaction with the quality.""
+}"
+5,5,True,"The review expresses a strong appreciation for the unique beauty and diversity of the Desert Botanical Gardens, highlighting its appeal even to someone who typically dislikes botanical gardens.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a strong appreciation for the unique beauty and diversity of the Desert Botanical Gardens, highlighting its appeal even to someone who typically dislikes botanical gardens.""
+}"
+5,5,True,"The review is very positive, highlighting great food, a fun atmosphere, and a strong recommendation.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is very positive, highlighting great food, a fun atmosphere, and a strong recommendation.""
+}"
+4,4,True,"The chicken curry was really good and positively influenced the overall experience, despite some average dishes.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The chicken curry was really good and positively influenced the overall experience, despite some average dishes.""
+}"
+2,2,True,"The reviewer finds the food decent but overpriced, and they had a negative experience with service, leading to frustration.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The reviewer finds the food decent but overpriced, and they had a negative experience with service, leading to frustration.""
+}"
+5,5,True,"The review expresses a high level of enjoyment and appreciation for the performance, highlighting great acting and music, which indicates a top rating.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a high level of enjoyment and appreciation for the performance, highlighting great acting and music, which indicates a top rating.""
+}"
+4,4,True,"The review expresses enjoyment of the food and atmosphere, highlighting specific dishes positively, but lacks a strong emotional connection or mention of any significant drawbacks.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses enjoyment of the food and atmosphere, highlighting specific dishes positively, but lacks a strong emotional connection or mention of any significant drawbacks.""
+}"
+1,1,True,"The reviewer had a very negative experience, describing the food as flavorless and the atmosphere as outdated and unappealing.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The reviewer had a very negative experience, describing the food as flavorless and the atmosphere as outdated and unappealing.""
+}"
+2,2,True,"The reviewer found the food decent but overpriced and lacking uniqueness, with a pretentious atmosphere, leading to a low rating despite good service.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The reviewer found the food decent but overpriced and lacking uniqueness, with a pretentious atmosphere, leading to a low rating despite good service.""
+}"
+3,3,True,The reviewer appreciates the happy hour and atmosphere but has mixed feelings about the music and is uncertain about returning.,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The reviewer appreciates the happy hour and atmosphere but has mixed feelings about the music and is uncertain about returning.""
+}"
+4,5,True,"The review highlights consistently good food and drink options, including a great beer selection and outstanding pizza, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights consistently good food and drink options, including a great beer selection and outstanding pizza, indicating a very positive experience.""
+}"
+2,4,True,"The review describes a challenging experience at the gas station but highlights the kindness of strangers that helped resolve the situation, indicating a generally positive outcome despite initial difficulties.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review describes a challenging experience at the gas station but highlights the kindness of strangers that helped resolve the situation, indicating a generally positive outcome despite initial difficulties.""
+}"
+1,1,True,"The review highlights poor service and only okay food, leading to a very low rating.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review highlights poor service and only okay food, leading to a very low rating.""
+}"
+4,5,True,The review expresses high satisfaction with the food and indicates that the whole family enjoyed their meal.,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses high satisfaction with the food and indicates that the whole family enjoyed their meal.""
+}"
+4,4,True,"The review is very positive, highlighting multiple aspects of the restaurant, but the mention of '4 & 1/4 stars' suggests a slight reservation preventing a full 5-star rating.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is very positive, highlighting multiple aspects of the restaurant, but the mention of '4 & 1/4 stars' suggests a slight reservation preventing a full 5-star rating.""
+}"
+5,5,True,"The review highlights a perfect meal, great ambiance, and unique food, indicating a highly positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights a perfect meal, great ambiance, and unique food, indicating a highly positive experience.""
+}"
+4,5,True,"The review expresses strong satisfaction with the freshness of the food, indicating a top choice for subs.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong satisfaction with the freshness of the food, indicating a top choice for subs.""
+}"
+4,4,True,"The reviewer has had a positive experience over a year, enjoying various dishes, but notes that the heat level is only 'good' hot, suggesting room for improvement.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer has had a positive experience over a year, enjoying various dishes, but notes that the heat level is only 'good' hot, suggesting room for improvement.""
+}"
+4,4,True,"The review highlights impressive service and a stylish restaurant, but notes some unfinished room makeovers, leading to a strong but not perfect rating.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights impressive service and a stylish restaurant, but notes some unfinished room makeovers, leading to a strong but not perfect rating.""
+}"
+4,3,True,"The review expresses a mix of positive and negative experiences, with appreciation for the ambiance and service but significant dissatisfaction with the food and timing.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses a mix of positive and negative experiences, with appreciation for the ambiance and service but significant dissatisfaction with the food and timing.""
+}"
+3,5,True,"The review highlights a positive experience for children, particularly with engaging train displays and activities, indicating a strong recommendation for families.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights a positive experience for children, particularly with engaging train displays and activities, indicating a strong recommendation for families.""
+}"
+3,3,True,"The review expresses mixed feelings, highlighting some positive aspects like the atmosphere and beer selection, but also mentions off-putting music and a lack of certain beers, leading to a neutral overall impression.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses mixed feelings, highlighting some positive aspects like the atmosphere and beer selection, but also mentions off-putting music and a lack of certain beers, leading to a neutral overall impression.""
+}"
+4,4,True,"The reviewer had a positive experience with the food, particularly the sandwich, but noted some disturbing decor and an unpleasant incident at the bar.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer had a positive experience with the food, particularly the sandwich, but noted some disturbing decor and an unpleasant incident at the bar.""
+}"
+5,5,True,"The review expresses a strong appreciation for the tour experience and the guides, despite minor concerns about disrepair, indicating a highly positive overall impression.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a strong appreciation for the tour experience and the guides, despite minor concerns about disrepair, indicating a highly positive overall impression.""
+}"
+5,5,True,"The reviewer had an excellent experience with high praise for the service and professionalism, indicating a strong likelihood of recommending the place.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer had an excellent experience with high praise for the service and professionalism, indicating a strong likelihood of recommending the place.""
+}"
+4,4,True,"The reviewer enjoyed the food and ambiance, despite some service issues, indicating a positive overall experience.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer enjoyed the food and ambiance, despite some service issues, indicating a positive overall experience.""
+}"
+3,2,True,"The food is described as just okay and the reviewer is upset about the high prices, indicating dissatisfaction.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The food is described as just okay and the reviewer is upset about the high prices, indicating dissatisfaction.""
+}"
+1,1,True,"The reviewer had a very negative experience due to poor customer service, leading to a decision not to return.","{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The reviewer had a very negative experience due to poor customer service, leading to a decision not to return.""
+}"
+3,4,True,"The review is very positive about the food, ambiance, and unique offerings, but mentions a slight discomfort with the trendy atmosphere and higher prices.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is very positive about the food, ambiance, and unique offerings, but mentions a slight discomfort with the trendy atmosphere and higher prices.""
+}"
+4,4,True,"The reviewer expresses enjoyment of the food and atmosphere, indicating a positive experience, but does not provide enough detail for a perfect score.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer expresses enjoyment of the food and atmosphere, indicating a positive experience, but does not provide enough detail for a perfect score.""
+}"
+3,5,True,"The review highlights excellent customer service, cleanliness, and delicious food, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights excellent customer service, cleanliness, and delicious food, indicating a very positive experience.""
+}"
+5,5,True,"The reviewer expresses high satisfaction with the service, pricing, and overall experience, indicating a strong positive impression.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer expresses high satisfaction with the service, pricing, and overall experience, indicating a strong positive impression.""
+}"
+5,5,True,"The review praises the happy hour menu highly, indicating great value and quality, despite a warning about the regular menu.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review praises the happy hour menu highly, indicating great value and quality, despite a warning about the regular menu.""
+}"
+5,5,True,"The reviewer expresses strong cravings for the food, praises multiple dishes, and shows enthusiasm for returning, indicating a highly positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer expresses strong cravings for the food, praises multiple dishes, and shows enthusiasm for returning, indicating a highly positive experience.""
+}"
+4,4,True,"The food was tasty and the atmosphere lively, but the slow service detracted slightly from the experience.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The food was tasty and the atmosphere lively, but the slow service detracted slightly from the experience.""
+}"
+2,2,True,"The review suggests disappointment with the overall dining experience, indicating it's only suitable for casual treats.","{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review suggests disappointment with the overall dining experience, indicating it's only suitable for casual treats.""
+}"
+4,4,True,"The review highlights great drinks, atmosphere, and food, but mentions an uncomfortable experience with a creepy person, which slightly detracts from the overall positive impression.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights great drinks, atmosphere, and food, but mentions an uncomfortable experience with a creepy person, which slightly detracts from the overall positive impression.""
+}"
+3,3,True,"The reviewer finds the food decent but not exceptional, indicating a mixed experience.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The reviewer finds the food decent but not exceptional, indicating a mixed experience.""
+}"
+5,5,True,"The reviewer had a great experience with delicious food and excellent service, indicating high satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer had a great experience with delicious food and excellent service, indicating high satisfaction.""
+}"
+5,5,True,"The reviewer had a positive experience with high-quality smoothies and reasonable prices, indicating strong satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer had a positive experience with high-quality smoothies and reasonable prices, indicating strong satisfaction.""
+}"
+3,3,True,"The service was excellent, but the food was disappointing, particularly the steaks, leading to an average overall experience.","{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The service was excellent, but the food was disappointing, particularly the steaks, leading to an average overall experience.""
+}"
+4,5,True,"The review highlights an outstanding experience with great food and a beautiful view, indicating high satisfaction.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights an outstanding experience with great food and a beautiful view, indicating high satisfaction.""
+}"
+5,5,True,"The reviewer expresses strong satisfaction and enthusiasm for the workout, indicating a positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The reviewer expresses strong satisfaction and enthusiasm for the workout, indicating a positive experience.""
+}"
+3,4,True,"The reviewer has consistently enjoyed the coffee and food, but feels a lack of comfort in the atmosphere.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer has consistently enjoyed the coffee and food, but feels a lack of comfort in the atmosphere.""
+}"
+5,5,True,"The review expresses strong positive feelings about the atmosphere, drinks, and overall experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive feelings about the atmosphere, drinks, and overall experience.""
+}"
+4,3,True,The review expresses a positive sentiment towards Apple products but does not specifically address the restaurant experience.,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses a positive sentiment towards Apple products but does not specifically address the restaurant experience.""
+}"
+4,5,True,"The review highlights excellent food quality, a vast menu, and affordable prices, indicating a very positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights excellent food quality, a vast menu, and affordable prices, indicating a very positive experience.""
+}"
+3,4,True,"The review highlights great food, solid service, and a good atmosphere, but notes that margaritas aren't great and dessert isn't worth it.","{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights great food, solid service, and a good atmosphere, but notes that margaritas aren't great and dessert isn't worth it.""
+}"
+4,5,True,"The review highlights very good food, great portions, friendly service, and a willingness to return, indicating a highly positive experience.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights very good food, great portions, friendly service, and a willingness to return, indicating a highly positive experience.""
+}"
+5,5,True,"The review expresses strong enthusiasm and satisfaction with the food and variety offered, indicating a high likelihood of returning frequently.","{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong enthusiasm and satisfaction with the food and variety offered, indicating a high likelihood of returning frequently.""
+}"
