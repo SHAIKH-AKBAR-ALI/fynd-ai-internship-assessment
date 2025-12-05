@@ -31,20 +31,33 @@ except:
     # Fallback to environment variable (for local development)
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-# If still no key, ask user to input it
-if not OPENAI_API_KEY:
-    st.warning("⚠️ OpenAI API Key Required")
-    OPENAI_API_KEY = st.text_input(
-        "Please enter your OpenAI API Key:", 
-        type="password",
-        help="Get your API key from https://platform.openai.com/api-keys"
-    )
+# Sidebar for API key input
+with st.sidebar:
+    st.header("🔑 Configuration")
     
     if not OPENAI_API_KEY:
-        st.info("👆 Please enter your OpenAI API key above to use the application")
-        st.stop()
+        st.warning("API Key Required")
+        sidebar_api_key = st.text_input(
+            "Paste your OpenAI API Key:", 
+            type="password",
+            help="Get your API key from https://platform.openai.com/api-keys"
+        )
+        if sidebar_api_key:
+            OPENAI_API_KEY = sidebar_api_key
+    else:
+        st.success("✅ API Key Loaded")
+        
+    st.markdown("---")
+    st.markdown("**About this App:**")
+    st.markdown("• AI-powered feedback system")
+    st.markdown("• User & Admin dashboards")
+    st.markdown("• Real-time analytics")
+    st.markdown("• Made by SHAIKH AKBAR ALI")
 
-client = OpenAI(api_key=OPENAI_API_KEY)
+# Initialize client if API key is available
+client = None
+if OPENAI_API_KEY:
+    client = OpenAI(api_key=OPENAI_API_KEY)
 
 FEEDBACK_FILE = Path("feedback.csv")
 
@@ -91,6 +104,9 @@ def append_feedback(record: dict) -> None:
 
 def call_openai(prompt: str, max_tokens: int = 300) -> str:
     """Simple wrapper to call GPT-4o-mini."""
+    if not client:
+        return "[Please add OpenAI API key in sidebar to use AI features]"
+    
     try:
         resp = client.chat.completions.create(
             model="gpt-4o-mini",
@@ -215,9 +231,13 @@ with tab_user:
         if not review_text.strip():
             st.error("Please write some feedback before submitting.")
         else:
-            # generate LLM response for user
-            with st.spinner("Generating AI response..."):
-                user_reply = generate_user_response(user_name, rating, review_text)
+            if not client:
+                st.warning("⚠️ Please add your OpenAI API key in the sidebar to get AI responses")
+                user_reply = "Thank you for your feedback! (AI response unavailable - API key required)"
+            else:
+                # generate LLM response for user
+                with st.spinner("Generating AI response..."):
+                    user_reply = generate_user_response(user_name, rating, review_text)
 
             # save to CSV
             record = {
@@ -276,15 +296,21 @@ with tab_admin:
         with col1:
             st.subheader("AI Summary of Feedback")
             if st.button("Generate Summary"):
-                with st.spinner("Analyzing feedback..."):
-                    summary_text = generate_admin_summary(df_fb)
-                st.markdown(summary_text)
+                if not client:
+                    st.warning("⚠️ Please add OpenAI API key in sidebar for AI analysis")
+                else:
+                    with st.spinner("Analyzing feedback..."):
+                        summary_text = generate_admin_summary(df_fb)
+                    st.markdown(summary_text)
 
         with col2:
             st.subheader("AI Recommended Actions")
             if st.button("Generate Actionable Suggestions"):
-                with st.spinner("Generating recommendations..."):
-                    actions_text = generate_admin_actions(df_fb)
-                st.markdown(actions_text)
+                if not client:
+                    st.warning("⚠️ Please add OpenAI API key in sidebar for AI suggestions")
+                else:
+                    with st.spinner("Generating recommendations..."):
+                        actions_text = generate_admin_actions(df_fb)
+                    st.markdown(actions_text)
 
         st.markdown("> ⚠️ Note: AI-generated insights are suggestions. Please review before acting.")
